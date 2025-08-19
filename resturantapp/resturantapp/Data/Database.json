@@ -1,0 +1,152 @@
+{
+    "tax": 0.0875,
+    "categories": [
+        {
+            "id": 1,
+            "title": "Breakfeast"
+        },
+        {
+            "id": 2,
+            "title": "Lunch"
+        },
+        {
+            "id": 3,
+            "title": "Dinner"
+        },
+        {
+            "id": 4,
+            "title": "Dessert"
+        },
+        {
+            "id": 5,
+            "title": "Drinks"
+        }
+    ],
+    "menuItems": [
+        {
+            "categoryId": 1,
+            "name": "Eggs Benedict",
+            "price": 9.50
+        },
+        {
+            "categoryId": 1,
+            "name": "Avocado Toast",
+            "price": 5.75
+        },
+        {
+            "categoryId": 1,
+            "name": "French Toast",
+            "price": 12.50
+        },
+        {
+            "categoryId": 1,
+            "name": "Waffles",
+            "price": 7.25
+        },
+        {
+            "categoryId": 1,
+            "name": "Pancakes",
+            "price": 8.60
+        },
+        {
+            "categoryId": 2,
+            "name": "Tuna Salad",
+            "price": 11.25
+        },
+        {
+            "categoryId": 2,
+            "name": "Pizza",
+            "price": 22.50
+        },
+        {
+            "categoryId": 2,
+            "name": "Chicken Sandwitch",
+            "price": 8.95
+        },
+        {
+            "categoryId": 2,
+            "name": "French Fries",
+            "price": 5.15
+        },
+        {
+            "categoryId": 2,
+            "name": "Macaroni and Cheese",
+            "price": 7.50
+        },
+        {
+            "categoryId": 3,
+            "name": "Ribeye Steak",
+            "price": 18.99
+        },
+        {
+            "categoryId": 3,
+            "name": "Pork Ribs",
+            "price": 21.75
+        },
+        {
+            "categoryId": 3,
+            "name": "Salmon",
+            "price": 15.00
+        },
+        {
+            "categoryId": 3,
+            "name": "Burrito Bowl",
+            "price": 13.99
+        },
+        {
+            "categoryId": 3,
+            "name": "Chicken Fajitas",
+            "price": 20.50
+        },
+        {
+            "categoryId": 4,
+            "name": "Ice Cream Sundae",
+            "price": 10.00
+        },
+        {
+            "categoryId": 4,
+            "name": "Fudge Brownie",
+            "price": 4.85
+        },
+        {
+            "categoryId": 4,
+            "name": "Chocolate Cake Slice",
+            "price": 6.10
+        },
+        {
+            "categoryId": 4,
+            "name": "Pumpkin Pie",
+            "price": 6.10
+        },
+        {
+            "categoryId": 4,
+            "name": "Ice Cream Float",
+            "price": 3.50
+        },
+        {
+            "categoryId": 5,
+            "name": "Water",
+            "price": 0.00
+        },
+        {
+            "categoryId": 5,
+            "name": "Sparkling Water",
+            "price": 2.15
+        },
+        {
+            "categoryId": 5,
+            "name": "Soda",
+            "price": 3.00
+        },
+        {
+            "categoryId": 5,
+            "name": "Coffee",
+            "price": 2.50
+        },
+        {
+            "categoryId": 5,
+            "name": "Hot Chocolate",
+            "price": 3.50
+        }
+    ]
+}

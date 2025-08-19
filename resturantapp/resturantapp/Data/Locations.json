@@ -1,0 +1,112 @@
+{
+   "items":[
+      {
+         "address":"4710 Bacon Street",
+         "state":"Brooklyn"
+      },
+      {
+         "address":"324 Angel Avenue",
+         "state":"Queens"
+      },
+      {
+         "address":"59 East 12th Street",
+         "state":"Manhattan"
+      },
+      {
+         "address":"16 Forest Drive",
+         "state":"Newark"
+      },
+      {
+         "address":"Delta Place",
+         "state":"New Brunsick"
+      },
+      {
+         "address":"Hummington Rd",
+         "state":"New Haven"
+      },
+      {
+         "address":"West Deering 58",
+         "state":"Hartford"
+      },
+      {
+         "address":"Orange Lane 123",
+         "state":"Syracuse"
+      },
+      {
+         "address":"Liberty Lane 456",
+         "state":"Buffalo"
+      },
+      {
+         "address":"Rector Street",
+         "state":"Concord"
+      },
+      {
+         "address":"Fordham Road",
+         "state":"Bronx"
+      },
+      {
+         "address":"North Hills 23 Avenue",
+         "state":"Hampton"
+      },
+      {
+         "address":"303 Cedar Court",
+         "state":"Auburn"
+      },
+      {
+         "address":"606 Chestnut Road",
+         "state":"Portland"
+      },
+      {
+         "address":"12345 Main Street",
+         "state":"Austin"
+      },
+      {
+         "address":"56789 Oak Street",
+         "state":"Salt Lake City"
+      },
+      {
+         "address":"10111 Pine Street",
+         "state":"Denver"
+      },
+      {
+         "address":"Johnson Avenue",
+         "state":"Miami"
+      },
+      {
+         "address":"98765 Maple Street",
+         "state":"Nashville"
+      },
+      {
+         "address":"Avenue of the Americas",
+         "state":"Tampa"
+      },
+      {
+         "address":"Quincy Street",
+         "state":"Boston"
+      },
+      {
+         "address":"Price St",
+         "state":"Manhattan"
+      },
+      {
+         "address":"345 Dean Street",
+         "state":"Manhattan"
+      },
+      {
+         "address":"Grand Street",
+         "state":"Manhattan"
+      },
+      {
+         "address":"Lockland Dr",
+         "state":"Boston"
+      },
+      {
+         "address":"Coney Island",
+         "state":"Brooklyn"
+      },
+      {
+         "address":"Tempe 30",
+         "state":"Pheonix"
+      }
+   ]
+}
